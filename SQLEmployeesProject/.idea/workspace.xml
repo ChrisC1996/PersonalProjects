@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9daf6b4-abdd-4c1d-82bb-07fec0410d49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyPart1/ConcurrencyPart1/ConcurrencyInJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyPart1/ConcurrencyPart1/ConcurrencyInJava/ConcurrencyInJavaPartOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SQLEmployeesProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/chris/controllers/MyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/chris/controllers/MyLocalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/chris/controllers/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/chris/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/Threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/sparta/chris/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/sparta/chris/StringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/sparta/chris/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/com/sparta/chris/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/out/production/BubbleSort/com/sparta/chris/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/chris/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/chris/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/ContainerGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/ContainerGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/SortManagerProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/.idea/SortManagerProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/BinaryTreeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/BinaryTreeInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/Starter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaProjectWeek4/src/main/java/com/sparta/chris/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoggingExample/src/main/java/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/ArrayMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/ArrayMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MergingArrays/src/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/AnimalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/AnimalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/AnimalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/AnimalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFourPillars/src/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/HeadAndTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/HeadAndTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/out/production/RecursionExercises/com/sparta/chris/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionExercises/src/com/sparta/chris/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionExercises/src/com/sparta/chris/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLAndJavaPractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLAndJavaPractice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLAndJavaPractice/resources/login.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLAndJavaPractice/resources/login.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/MyLocalDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/MyLocalDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLAndJavaPractice/src/main/java/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/chris/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/chris/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/chris/MyLocalDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/chris/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/src/com/sparta/chris/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/src/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/BinaryTreeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/BinaryTreeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/src/main/java/com/sparta/chris/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/BinaryTreeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/BinaryTreeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/UserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManagerProject/target/classes/com/sparta/chris/UserInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringExercises/out/production/StringExercises/com/sparta/chris/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StringExercises/out/production/StringExercises/com/sparta/chris/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringExercises/src/com/sparta/chris/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringExercises/src/com/sparta/chris/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/FizzBuzzGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/FizzBuzzGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/sparta/chris/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/test/java/com/sparta/chris/AddNumbersTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/src/test/java/com/sparta/chris/AddNumbersTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/test/java/com/sparta/chris/FizzBuzzGeneratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting/src/test/java/com/sparta/chris/FizzBuzzGeneratorTester.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j998ltCIUEjyy5i0UMOc9dzLaX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PCSFF\Documents\SpartaGlobalPractice\git\Engineering72\SQLEmployeesProject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PCSFF\Documents\SpartaGlobalPractice\git\Engineering72\SQLEmployeesProject\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.chris.Main" />
+      <module name="SQLEmployeesProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.chris.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9daf6b4-abdd-4c1d-82bb-07fec0410d49" name="Default Changelist" comment="" />
+      <created>1603205285784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603205285784</updated>
+      <workItem from="1605198531152" duration="2183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603205392952">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1603205392952" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1604400648065">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604400648065" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1605220819006">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605220819006" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1605220819006">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605220819006" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1605220819005">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605220819005" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1605220819006">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605220819006" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1603205456462">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603205456462" />
+    <state x="367" y="166" width="865" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603765310833">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="367" y="166" width="865" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1603765310833" />
+    <state x="182" y="50" key="new project wizard" timestamp="1604400659384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1604400659384" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
