@@ -2,14 +2,81 @@
     font-family: Roboto;
     src: url('../Fonts/RobotoCondensed-Regular.ttf') format('.ttf');
 } */
+
 body {
     font-family: 'Roboto Condensed';
 }
 
+h1 {
+    font-size: 28;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 42px;
+}
+
+h3 {
+    font-size: 28;
+    color: #273672;
+    font-weight: bold;
+    line-height: 28px;
+}
+
+h4 {
+    font-size: 23;
+    color: #D5332F;
+    font-weight: bold;
+    line-height: 28px;
+}
+
+h5 {
+    font-size: 19;
+    color: #464646;
+    font-weight: bold;
+    line-height: 21px;
+}
+
+.logo-hero {
+    position: absolute;
+    width: 194px;
+    left: 50%;
+    margin-left: -97px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
 .heading-block {
     background-color: #263671;
-    color: #FFFFFF;
     text-align: center;
+}
+
+#intro-message p {
+    color: #FFFFFF;
+    font-size: 19;
+}
+
+#intro-message blockquote {
+    width: 50%;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-left: 25%;
 }
 
 .food-providers-images {
@@ -19,6 +86,10 @@ body {
     justify-content: center;
     align-items: center;
     margin-bottom: 10px;
+}
+
+.food-providers-images li {
+    display: inline;
 }
 
 .food-providers-images[bottom-page=true] div {
@@ -75,15 +146,11 @@ body {
 
 .menu-item-section h3 {
     text-align: center;
-    color: #263671;
-    font-weight: bold;
     padding: 20px;
 }
 
 .menu-item-section h4 {
     text-align: center;
-    color: #D5332F;
-    font-weight: bold;
 }
 
 .menu-item-section p {
@@ -92,7 +159,7 @@ body {
 
 .menu-items-no-image {
     padding: 15px;
-    border: 1px solid grey;
+    border: 1px solid #e1e1e1;
     flex: 1;
     margin-right: 30px;
     margin-bottom: 10px;
@@ -100,6 +167,7 @@ body {
 
 div.divider[stars=true]::before {
     content: url("../images/stars.png");
+    alt: "stars"
 }
 
 .divider {
@@ -111,8 +179,8 @@ div.divider[stars=true]::before {
 
 .menu-items-image {
     display: flex;
-    height: 130px;
-    border: 1px solid grey;
+    /* height: 130px; */
+    border: 1px solid #e1e1e1;
     flex: 1;
     margin-right: 30px;
     margin-bottom: 10px;
@@ -121,14 +189,12 @@ div.divider[stars=true]::before {
 .menu-items-image .text-section {
     flex: 1;
     padding: 15px;
-}
-
-.menu-items-image .text-section p::before {
-    content: 'Fully loaded chicken box, with your choice of either breaded or grilled chicken, topped with barbacoa beef, BBQ sauce, red onions and cheddar cheese.'
+    height: 100%;
 }
 
 .menu-items-image img {
-    height: 100%;
+    max-height: 200px;
+    max-width: 50%;
 }
 
 .dietry-allergy-button {
@@ -147,16 +213,12 @@ div.divider[stars=true]::before {
     margin-bottom: 30px;
 }
 
-.col > h5 {
-    font-weight: bold;
-}
-
 #soft-drinks {
     margin-right: 50px;
 }
 
 .drink-section {
-    border: 1px grey solid;
+    border: 1px solid #e1e1e1;
     padding: 20px;
     margin-bottom: 10px;
 }
@@ -173,7 +235,6 @@ div.divider[stars=true]::before {
 
 .bundle-deals > h1 {
     font-weight: bold;
-    text-align: center;
 }
 
 .bundle-deals > img {
@@ -184,10 +245,6 @@ div.divider[stars=true]::before {
 
 #order-now {
     background-color: #263671;
-}
-
-#order-now h3 {
-    color: #F9C62F;
 }
 
 .logo-img {
