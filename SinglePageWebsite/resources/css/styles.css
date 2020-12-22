@@ -8,37 +8,52 @@ body {
 }
 
 h1 {
-    font-size: 28;
+    font-size: 28px;
     color: #FFFFFF;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 40;
+    font-size: 40px;
     color: #FFFFFF;
     font-weight: bold;
     line-height: 42px;
 }
 
 h3 {
-    font-size: 28;
+    font-size: 28px;
     color: #273672;
     font-weight: bold;
     line-height: 28px;
 }
 
 h4 {
-    font-size: 23;
+    font-size: 24px;
     color: #D5332F;
     font-weight: bold;
     line-height: 28px;
 }
 
 h5 {
-    font-size: 19;
+    font-size: 19px;
     color: #464646;
     font-weight: bold;
     line-height: 21px;
+}
+
+p {
+    font-size: 19px;
+    line-height: 23px;
+}
+
+#background-image-top {
+    height: 675px;
+}
+
+.img-hero {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
 .logo-hero {
@@ -69,14 +84,16 @@ h5 {
 
 #intro-message p {
     color: #FFFFFF;
-    font-size: 19;
+    padding-top: 24px;
+    margin-bottom: 0px;
 }
 
 #intro-message blockquote {
-    width: 50%;
-    padding-top: 35px;
-    padding-bottom: 35px;
-    margin-left: 25%;
+    width: auto;
+    max-width: 700px;
+    padding-top: 28px;
+    padding-bottom: 43px;
+    margin: 0 auto;
 }
 
 .food-providers-images {
@@ -88,8 +105,21 @@ h5 {
     margin-bottom: 10px;
 }
 
+.food-providers-images ul {
+    width: 490px;
+    max-width: 100%;
+    display: flex;
+    padding-left: 0px;
+    margin-bottom: 64px;
+}
+
 .food-providers-images li {
     display: inline;
+    width: 33.33333%;
+    margin-right: 18px;
+    background-color: white;
+    display: flex;
+    align-items: center;
 }
 
 .food-providers-images[bottom-page=true] div {
@@ -100,35 +130,29 @@ h5 {
     height: 100px;
 }
 
-.food-providers-images[bottom-page=true] img {
-    height: 100%;
+.food-providers-images img {
     width: 100%;
-    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-/* .food-providers-images img {
-    width: 200px;
-} */
-
-.food-providers-images[bottom-page=false] img:hover {
+.food-providers-images li:hover {
     border: 1px #D5332F solid;
 }
 
-.food-providers-images[bottom-page=false] a:focus img {
-    border: 1px #263671 solid;
-}
-
-.food-providers-images[bottom-page=true] div:hover {
-    border: 1px #D5332F solid;
-}
-
-.food-providers-images[bottom-page=true] div:focus-within {
+.food-providers-images li:focus-within {
     border: 1px #263671 solid;
 }
 
 #our-menu-title h2 {
     display: inline-block;
-    padding: 20px;
+    padding-top: 34px;
+    padding-bottom: 41px;
+}
+
+.stars-img {
+    height: 13px;
 }
 
 #our-menu-title img {
@@ -142,11 +166,12 @@ h5 {
 .menu-item-section .d-flex {
     width: 83.333333%;
     margin: 0 auto;
+    margin-bottom: 70px;
 }
 
 .menu-item-section h3 {
     text-align: center;
-    padding: 20px;
+    padding: 25px 0px;
 }
 
 .menu-item-section h4 {
@@ -161,13 +186,19 @@ h5 {
     padding: 15px;
     border: 1px solid #e1e1e1;
     flex: 1;
-    margin-right: 30px;
-    margin-bottom: 10px;
+    margin-right: 60px;
 }
 
-div.divider[stars=true]::before {
-    content: url("../images/stars.png");
-    alt: "stars"
+.w-100 {
+    height: 28px;
+}
+
+div.divider[stars=true]{
+    height: 28px;
+    background-image: url("../images/stars.png");
+    background-position: center;
+    background-size: 50px 13px;
+    background-repeat: no-repeat;
 }
 
 .divider {
@@ -175,6 +206,7 @@ div.divider[stars=true]::before {
     width: 100%;
     text-align: center;
     padding: 5px;
+    height: 19px;
 }
 
 .menu-items-image {
@@ -185,7 +217,6 @@ div.divider[stars=true]::before {
     /* margin-right: 30px; */
     position: relative;
     padding-right: 220px;
-    margin-bottom: 28px;
 }
 
 /* .menu-items-image:nth-of-type(3n-2) {
@@ -206,12 +237,16 @@ div.divider[stars=true]::before {
     object-fit: cover;
 }
 
+.menu-item-section .dietry-allergy-button {
+    margin-top: -13px;
+}
+
 .dietry-allergy-button {
     border-radius: 15px;
 }
 
 .dietry-allergy-button:hover {
-    background: #F9C62F;
+    background: #F9C630;
 }
 
 #drinks-menu > div {
@@ -232,18 +267,27 @@ div.divider[stars=true]::before {
     margin-bottom: 10px;
 }
 
-#bundles {
-    margin-bottom: 50px;
+#bundles .d-flex {
+    margin: 0px 8.3333% 75px 8.3333%;
 }
 
 .bundle-deals {
     background-color: #263671;
     color: #FFFFFF;
-    padding: 15px;
+    padding: 30px 40px 18px 40px;
 }
 
 .bundle-deals > h1 {
-    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+.bundle-deals > p {
+    font-size: 23px;
+    line-height: 28px;
+    margin-bottom: 25px;
 }
 
 .bundle-deals > img {
@@ -256,10 +300,19 @@ div.divider[stars=true]::before {
     background-color: #263671;
 }
 
+#order-now > h3 {
+    color: #F9C630;
+}
+
 .logo-img {
-    height: 100px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    height: 130px;
+    margin-top: 56px;
+    margin-bottom: 24px;
+}
+
+.copyright-text p{
+    font-size: 16px;
+    line-height: 14px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -286,5 +339,9 @@ div.divider[stars=true]::before {
 
     .menu-items-image:nth-of-type(3n-2) {
         margin-right: 60px;
+    }
+
+    .menu-items-no-image:nth-of-type(4n-1) {
+        margin-right: 0px;
     }
 }
