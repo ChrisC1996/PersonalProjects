@@ -5,32 +5,32 @@
 
 body {
     font-family: 'Roboto Condensed';
-}
+} 
 
 h1 {
     font-size: 28px;
     color: #FFFFFF;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 h2 {
     font-size: 40px;
     color: #FFFFFF;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 42px;
 }
 
 h3 {
     font-size: 28px;
     color: #273672;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 28px;
 }
 
 h4 {
     font-size: 24px;
     color: #D5332F;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 28px;
 }
 
@@ -44,16 +44,25 @@ h5 {
 p {
     font-size: 19px;
     line-height: 23px;
+    font-weight: 400;
+}
+
+a {
+    width: 100%;
 }
 
 #background-image-top {
     height: 675px;
 }
 
-.img-hero {
+.img-hero-large, .img-hero-small {
     height: 100%;
     width: 100%;
     object-fit: cover;
+}
+
+.img-hero-small {
+    display: none;
 }
 
 .logo-hero {
@@ -106,7 +115,7 @@ p {
 }
 
 .food-providers-images ul {
-    width: 490px;
+    width: 522px;
     max-width: 100%;
     display: flex;
     padding-left: 0px;
@@ -120,6 +129,8 @@ p {
     background-color: white;
     display: flex;
     align-items: center;
+    height: 88px;
+    justify-content: center;
 }
 
 .food-providers-images[bottom-page=true] div {
@@ -131,10 +142,20 @@ p {
 }
 
 .food-providers-images img {
-    width: 100%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+}
+
+.food-providers-images .uber-eats {
+    height: 46px;
+}
+
+.food-providers-images .deliveroo {
+    height: 70px;
+}
+
+.food-providers-images .just-eat {
+    height: 54px;
 }
 
 .food-providers-images li:hover {
@@ -147,16 +168,12 @@ p {
 
 #our-menu-title h2 {
     display: inline-block;
-    padding-top: 34px;
-    padding-bottom: 41px;
+    padding: 34px 20px 41px 20px;
 }
 
 .stars-img {
     height: 13px;
-}
-
-#our-menu-title img {
-    vertical-align: baseline;
+    margin-bottom: 20px;
 }
 
 .menu-item-section {
@@ -185,8 +202,15 @@ p {
 .menu-items-no-image {
     padding: 15px;
     border: 1px solid #e1e1e1;
-    flex: 1;
-    margin-right: 60px;
+    flex: 0 1 auto;
+    width: 30%;
+    max-height: 140px;
+    margin-left: 5%;
+    margin-bottom: 28px;
+}
+
+.menu-items-no-image:nth-of-type(3n-2) {
+    margin-left: 0px;
 }
 
 .w-100 {
@@ -263,8 +287,20 @@ div.divider[stars=true]{
 
 .drink-section {
     border: 1px solid #e1e1e1;
-    padding: 20px;
+    padding: 25px 0px 13px 0px;
     margin-bottom: 10px;
+}
+
+.drink-section .row {
+    margin-left: 25px;
+}
+
+.drink-section .col-md-6 {
+    margin-bottom: 22px;
+}
+
+.drink-section h4 {
+    margin-bottom: 30px;
 }
 
 #bundles .d-flex {
@@ -317,6 +353,18 @@ div.divider[stars=true]{
 
 @media only screen and (max-width: 768px) {
 
+    .img-hero-large {
+        display: none;
+    }
+
+    .img-hero-small {
+        display: inline;
+    }
+
+    .menu-item-section .d-flex {
+        width: 94.375%;
+    }
+
     .menu-items-image {
         flex-direction: column;
         padding: 0;
@@ -332,6 +380,23 @@ div.divider[stars=true]{
         right: 0;
         top: 0;
         object-fit: fill; */
+    }
+
+    .menu-items-no-image {
+        flex-direction: column;
+        width: 100%;
+        flex: auto;
+        margin-left: 0px;
+        margin-bottom: 9px;
+    }
+
+    #soft-drinks {
+        margin-right: 0px;
+    }
+
+    #drinks-menu > div {
+        flex: 0 1 auto;
+        width: 100%;
     }
 }
 
